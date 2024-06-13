@@ -1,6 +1,3 @@
----
-layout: article-layout.html
----
 # Apple Pie Receipe
 
 ## Ingredients:
