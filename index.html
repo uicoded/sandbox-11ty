@@ -1,5 +1,5 @@
 ---
-layout: layout.html
+layout: default-layout.html
 title: 11ty Intro
 ---
 <h1>{{ title }} </h1>
@@ -16,8 +16,13 @@ title: 11ty Intro
 <h2>With <code>package.json</code></h2>
 <ol>
   <li>Create package.json: <code>npm init -y</code></li>
-  <li>Install eleventy: <code>npm install @11ty/eleventy</code></li>
-  <li>Run eleventy: <code>npx @11ty/eleventy</code></li>
+  <li>Install eleventy: <code>npm install @11ty/eleventy --save-dev</code></li>
+  <li>Add script section to package.json: 
+    <pre>
+      "scripts": {
+        "build": "npx @11ty/eleventy",
+      }
+    </pre>
 </ol>
 
 <h2>Articles</h2>
