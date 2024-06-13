@@ -19,3 +19,10 @@ title: 11ty Intro
   <li>Install eleventy: <code>npm install @11ty/eleventy</code></li>
   <li>Run eleventy: <code>npx @11ty/eleventy</code></li>
 </ol>
+
+<h2>Articles</h2>
+{% for article in collections.article %}
+<h2>{{ article.title }}</h2>
+<p>{{ article.content }}</p>
+<br/>
+{% endfor %}

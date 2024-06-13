@@ -1,3 +1,4 @@
 {
-  "layout": "article-layout.html"
+  "layout": "article-layout.html",
+  "tags": "article"
 }

@@ -1,4 +1,9 @@
-# Apple Pie Receipe
+---
+title: Apple Pie Recipe
+id: 1
+---
+
+# {{title}}
 
 ## Ingredients:
 - 1/2 cups all-purpose flour

@@ -1,4 +1,9 @@
-# Risotto Recipe
+---
+title: Risotto Recipe
+id: 2
+---
+
+# {{title}}
 
 Risotto is a classic Italian dish made with short-grain rice cooked in stock until it becomes creamy and flavorful. It can be served as a side dish or as a main course. Here's a simple risotto recipe to get you started:
 
