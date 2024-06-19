@@ -5,6 +5,8 @@ id: 1
 
 # {{title}}
 
+![Apple Pie Recipe](./public/img/apple-pie-1694715_600.jpg)
+
 ## Ingredients:
 - 1/2 cups all-purpose flour
 - teaspoon salt

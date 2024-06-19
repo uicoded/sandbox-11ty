@@ -3,6 +3,7 @@ node_modules
 
 #Compile
 dist
+build
 
 # Cache
 .cache
